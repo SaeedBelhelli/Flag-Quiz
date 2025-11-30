@@ -1,4 +1,4 @@
-My first coding project that I Submitted during my CSP course on 4/29/2024
+My first coding project that I submitted during my CSP course on 4/29/2024
 2023-2024
 https://studio.code.org/projects/applab/eWD2LXYynDgCPdgjPLsP-eXWScu5jXMIEM_Qz6lG6fY
 # Flag Quiz – Code.org App Lab
